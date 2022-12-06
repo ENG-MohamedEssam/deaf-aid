@@ -25,4 +25,6 @@
 #### So to make the Raspberry pi run the codes on the startup i used the following script to make it launch it while starting up
 ####[script](https://github.com/ENG-MohamedEssam/deaf-aid/blob/main/launcher.sh)
 #### you will find a video explanation in the following link for the whole project
+#### for the power source at first i was using the phone's charger but for the final product i planned to use lipo battery or a power bank 
+#### for the internet source i used the phone's usb using usb tethering method but for the final product i planned to use usb dongle or offline voice recognition library 
 ####[Explanation](https://drive.google.com/drive/u/0/folders/1KUh7kfPaU8bGa7THwe2R01-4G6Q_rnNO)
