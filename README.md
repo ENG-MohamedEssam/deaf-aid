@@ -15,14 +15,14 @@
 #### RaspberryPi , 16x2 Character LCD, Microphone, Power source, Internet source.
 
 #### The following image will give you a glimpse  of the hardware connections
-![img]()
+![img](https://github.com/ENG-MohamedEssam/deaf-aid/blob/main/images/img.png)
 #### The raspberry pi was used as the main processor, the microphone took the voice of the normal human being, then the raspberry pi would process the voice data and recognize it then display it on the LCD 
 #### The following two codes were the main codes that were used for the project
-####[input-audio]()
-####[output-text]()
+####[input-audio](https://github.com/ENG-MohamedEssam/deaf-aid/blob/main/Speech_Recognition_Test.py)
+####[output-text](https://github.com/ENG-MohamedEssam/deaf-aid/blob/main/LCD_PYTHON.py)
 #### also the codes went throught a lot of modification, such as the following code was some kind of LCD driver but to make it easier i used an already made driver in the final code
-####[old-lcd-driver]()
+####[old-lcd-driver](https://github.com/ENG-MohamedEssam/deaf-aid/blob/main/LCD_PYTHON_OLD.py)
 #### So to make the Raspberry pi run the codes on the startup i used the following script to make it launch it while starting up
-####[script]()
+####[script](https://github.com/ENG-MohamedEssam/deaf-aid/blob/main/launcher.sh)
 #### you will find a video explanation in the following link for the whole project
-####[Explanation]()
+####[Explanation](https://drive.google.com/drive/u/0/folders/1KUh7kfPaU8bGa7THwe2R01-4G6Q_rnNO)
